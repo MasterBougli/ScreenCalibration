@@ -1,0 +1,68 @@
+LICENCE PROPRIÉTAIRE — TOUS DROITS RÉSERVÉS
+
+Copyright (c) 2026 MasterBougli. Tous droits réservés.
+
+Le logiciel « Screen Calibration », comprenant son code source, ses fichiers
+binaires, sa documentation et tous les éléments associés (ci-après « le
+Logiciel »), est la propriété exclusive de son auteur. Il est protégé par le
+droit d'auteur et les traités internationaux.
+
+1. AUTORISATIONS
+
+   Sous réserve du respect intégral de la présente licence, toute personne est
+   autorisée, à titre gratuit, personnel et non exclusif, à :
+   a) consulter le code source sur la page GitHub officielle du projet ;
+   b) télécharger et utiliser les exécutables officiels publiés par l'auteur,
+      sur ses propres appareils, pour un usage personnel et non commercial.
+
+2. INTERDICTIONS
+
+   Sauf autorisation écrite et préalable de l'auteur, il est strictement
+   interdit de :
+   a) vendre, louer, céder, sous-licencier ou commercialiser le Logiciel, en
+      tout ou partie, sous quelque forme que ce soit, y compris de manière
+      intégrée à un autre produit ou service ;
+   b) modifier, adapter, traduire, corriger ou créer des œuvres dérivées du
+      Logiciel ou de tout extrait de son code source ;
+   c) copier, reproduire, redistribuer, republier ou mettre à disposition le
+      Logiciel ou son code source, modifié ou non, par quelque moyen que ce
+      soit (hors fork technique sur GitHub prévu par les conditions
+      d'utilisation de GitHub, sans aucune autre utilisation) ;
+   d) réutiliser tout ou partie du code source dans un autre projet ;
+   e) décompiler, désassembler ou procéder à l'ingénierie inverse des
+      exécutables, sauf dans les limites expressément autorisées par la loi ;
+   f) supprimer ou modifier les mentions de droit d'auteur ou la présente
+      licence.
+
+3. CONTRIBUTIONS
+
+   Toute suggestion ou rapport de bug transmis à l'auteur peut être utilisé
+   librement par celui-ci, sans obligation ni contrepartie.
+
+4. ABSENCE DE GARANTIE
+
+   LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
+   OU IMPLICITE, NOTAMMENT DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE
+   PARTICULIER OU D'ABSENCE DE CONTREFAÇON. L'UTILISATEUR L'UTILISE À SES
+   PROPRES RISQUES.
+
+5. LIMITATION DE RESPONSABILITÉ
+
+   EN AUCUN CAS L'AUTEUR NE POURRA ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE,
+   DIRECT OU INDIRECT, RÉSULTANT DE L'UTILISATION OU DE L'IMPOSSIBILITÉ
+   D'UTILISER LE LOGICIEL, Y COMPRIS EN CAS DE MODIFICATION DES RÉGLAGES
+   D'AFFICHAGE.
+
+6. RÉSILIATION
+
+   Toute violation de la présente licence entraîne la résiliation immédiate et
+   automatique des droits accordés, sans préjudice de toute action en
+   justice.
+
+7. DROIT APPLICABLE
+
+   La présente licence est régie par le droit français. Tout litige relève de
+   la compétence des tribunaux français.
+
+Pour toute demande d'autorisation (usage commercial, redistribution,
+modification), contactez l'auteur via GitHub : https://github.com/MasterBougli
